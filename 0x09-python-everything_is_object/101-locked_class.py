@@ -8,4 +8,4 @@ class LockedClass:
     """ locked class defination. It prevents user from
     dynamically creating new instant.
     """
-    __insta__ = ('first_name')
+    __slots__ = ('first_name')
