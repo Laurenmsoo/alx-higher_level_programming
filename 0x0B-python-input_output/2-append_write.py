@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Appends to a file
 """
