@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-state class defination 
+state class defination
 """
 
 from sqlalchemy.ext.declarative import declarative_base
